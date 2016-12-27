@@ -1,0 +1,22 @@
+---
+galaxy_info:
+  author: github.com/xchangebit
+  description: Install Amazon AWS Command Line Interface to an Ubuntu server.
+  license: "license (BSD, MIT)"
+  min_ansible_version: 2.0
+  platforms:
+  - name: EL
+    versions:
+    - all
+  - name: Ubuntu
+    versions:
+    - all
+  - name: Debian
+    versions:
+    - all
+  galaxy_tags:
+    - aws
+    - amazon
+    - cli
+dependencies: []
+allow_duplicates: yes

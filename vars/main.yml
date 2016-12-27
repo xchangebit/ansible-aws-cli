@@ -1,0 +1,7 @@
+---
+aws_system_user: root
+aws_profile: default
+aws_access_key: "<aws-accesss-key>"
+aws_secret_key: "<aws-secret-key>"
+aws_region: eu-west-2
+aws_format: table
